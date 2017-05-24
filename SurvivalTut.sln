@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalTut.Plugins", "SurvivalTut.Plugins.csproj", "{731EBE58-3424-366D-BF3D-A853757CF1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalTut", "SurvivalTut.csproj", "{8E4F3CCC-CF53-9A0A-ABFB-DCD1A244C51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalTut.Editor.Plugins", "SurvivalTut.Editor.Plugins.csproj", "{AF28104C-5D27-7B54-081F-D673864C7882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731EBE58-3424-366D-BF3D-A853757CF1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731EBE58-3424-366D-BF3D-A853757CF1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731EBE58-3424-366D-BF3D-A853757CF1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731EBE58-3424-366D-BF3D-A853757CF1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4F3CCC-CF53-9A0A-ABFB-DCD1A244C51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4F3CCC-CF53-9A0A-ABFB-DCD1A244C51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4F3CCC-CF53-9A0A-ABFB-DCD1A244C51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4F3CCC-CF53-9A0A-ABFB-DCD1A244C51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF28104C-5D27-7B54-081F-D673864C7882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF28104C-5D27-7B54-081F-D673864C7882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF28104C-5D27-7B54-081F-D673864C7882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF28104C-5D27-7B54-081F-D673864C7882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
