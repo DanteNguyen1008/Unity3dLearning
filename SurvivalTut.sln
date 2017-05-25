@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalTut", "SurvivalTut.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalTut.Editor.Plugins", "SurvivalTut.Editor.Plugins.csproj", "{AF28104C-5D27-7B54-081F-D673864C7882}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalTut.Editor", "SurvivalTut.Editor.csproj", "{C7389EB9-C5CD-F153-E1F1-5D4211E4A963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{AF28104C-5D27-7B54-081F-D673864C7882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF28104C-5D27-7B54-081F-D673864C7882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF28104C-5D27-7B54-081F-D673864C7882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7389EB9-C5CD-F153-E1F1-5D4211E4A963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7389EB9-C5CD-F153-E1F1-5D4211E4A963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7389EB9-C5CD-F153-E1F1-5D4211E4A963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7389EB9-C5CD-F153-E1F1-5D4211E4A963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
